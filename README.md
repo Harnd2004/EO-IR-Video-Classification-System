@@ -26,3 +26,20 @@ An advanced, real-time AI surveillance system developed to identify military ent
    ```bash
    git clone https://github.com/Harnd2004/EO-IR-Video-Classification-System.git
    cd EO-IR-Video-Classification-System
+2. **Install dependencies:**
+     ```bash
+   pip install ultralytics gradio pandas opencv-python fpdf2 python-docx
+3. **Run the application:**
+    ```bash
+   python app.py
+    
+##  Intelligence Report Sample
+
+* The system generates structured reports including:
+
+* Executive Summary: Total detection counts and average confidence.
+
+* Threat Assessment: Breakdown of critical vs. routine concerns.
+
+* Detection Log: Precise timestamps, durations, and spatial coordinates for every entity found.
+    
