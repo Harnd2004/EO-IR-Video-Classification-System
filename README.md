@@ -24,5 +24,5 @@ An advanced, real-time AI surveillance system developed to identify military ent
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Harnd2004/EO-IR-Video-Classification-System.git](https://github.com/Harnd2004/EO-IR-Video-Classification-System.git)
+   git clone https://github.com/Harnd2004/EO-IR-Video-Classification-System.git
    cd EO-IR-Video-Classification-System
