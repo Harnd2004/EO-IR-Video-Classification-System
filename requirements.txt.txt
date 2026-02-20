@@ -1,7 +1,0 @@
-ultralytics
-gradio
-pandas
-opencv-python
-numpy
-fpdf2
-python-docx
