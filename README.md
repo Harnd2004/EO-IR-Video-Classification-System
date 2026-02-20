@@ -42,4 +42,10 @@ An advanced, real-time AI surveillance system developed to identify military ent
 * Threat Assessment: Breakdown of critical vs. routine concerns.
 
 * Detection Log: Precise timestamps, durations, and spatial coordinates for every entity found.
-    
+
+##  UI
+![WhatsApp Image 2026-02-20 at 5 55 59 PM](https://github.com/user-attachments/assets/ff73b815-d628-4042-ac91-e7a187c69ac7)
+![WhatsApp Image 2026-02-20 at 5 55 59 PM (1)](https://github.com/user-attachments/assets/27623eb1-030e-4c45-aa41-3e822734f7bc)
+![WhatsApp Image 2026-02-20 at 5 55 58 PM](https://github.com/user-attachments/assets/90b2afe1-47bd-4c3d-a856-9c6b2d930424)
+![WhatsApp Image 2026-02-20 at 5 56 00 PM](https://github.com/user-attachments/assets/8f04d784-1764-47aa-b717-ce111b329b07)
+
