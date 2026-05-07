@@ -8,7 +8,7 @@ An advanced, real-time AI surveillance system developed to identify military ent
 * **YOLOv8 Core:** High-speed detection of 7 military categories: Artillery, Missiles, Radar, Rocket Launchers, Soldiers, Tanks, and Vehicles.
 * **Automated Threat Assessment:** Real-time classification of detections into Critical, High, Medium, or Low threat levels based on entity type.
 * **Intelligence Reporting Engine:**
-    * **Interactive HTML Dashboard:** Visual summaries of detection patterns and confidence metrics.
+    * **Interactive Dashboard:** Visual summaries of detection patterns and confidence metrics.
     * **Multi-Format Export:** One-click generation of professional PDF, Word, and JSON reports for command-level review.
 * **Side-by-Side Analysis:** Dual-video interface to compare raw surveillance footage against AI-annotated streams.
 * **Edge-Ready Logic:** Optimized processing pipeline designed for rapid inference.
